@@ -22,7 +22,7 @@ function actualizarBadgeText(a){
 }
 
 function traerFeed(){
-	fetch_feed("http://gizmologia.com/feed-chrome-extension")
+	fetch_feed("ulr-xml-test.xml")
 }
 
 function display_stories(a){
